@@ -1,2 +1,2 @@
 # Timer-Stopwatch
-Htnl Css JavaScript
+Html Css JavaScript
